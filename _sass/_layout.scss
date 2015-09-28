@@ -78,7 +78,8 @@
         font-size: 12px;
         font-family: Open Sans;
         color: #959595;
-        width: 940px;
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
         text-align: center;
     }
 
