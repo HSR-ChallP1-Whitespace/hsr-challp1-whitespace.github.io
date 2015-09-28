@@ -1,0 +1,15 @@
+# Site settings
+title: Whitespace_LOG - HSR Challenge Project
+email: 
+description: Lab-LOG for our Challenge Project Whitespace @ HSR
+baseurl: ""
+url: "http://hsr-challp1-whitespace.github.io"
+twitter_username: 
+github_username: HSR-ChallP1-Whitespace
+
+# Build settings
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
