@@ -38,7 +38,7 @@ if we dont already know them:
 The first 'little' (more or less) step today was to get
 the starter-kit running on our machines.
 
-The requirements:
+Requirements:
 
  - maven
  - jdk8
@@ -54,7 +54,7 @@ to make a project running. Such dependencies should be binary.
 Unfortunately there is no release with the current sources in the repository.
 I think we will setup our own CI (Jenkins) and artifact repository.
 
-In the end we set up our github repositories and finished the day.
+At the end we set up our github repositories and finished the day.
 
 ### Summary
 The project sounds very exciting but also very challenging.
