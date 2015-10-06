@@ -18,6 +18,7 @@ permalink: /report/
 | 05.10.2015    | 4.0           | Stefan Kapferer | Implement data visualization for 'gyro z' sensor data                                                         |
 | 05.10.2015    | 1.5           | Stefan Kapferer | Optimize data visualization / refresh data automatically (poll)                                               |
 | 05.10.2015    | 0.5           | Stefan Kapferer | Write LAB-Log 05.10.2015                                                                                      |             
-| 05.10.2015    | 3.0           | Roberto Cuervo  | General research about 'Track recognition'                                                                   |                                                                         |
+| 05.10.2015    | 3.0           | Roberto Cuervo  | General research about 'Track recognition'                                                                    |                                                                         |
 | 06.10.2015    | 1.0           | Roberto Cuervo  | Complete LAB-Log 05.10.2015                                                                                   |
-|               | **38.5**      |                 |                                                                                                               |
+| 06.10.2015    | 1.5           | Roberto Cuervo  | Research about Events in general, trying to find a utility for acc values                                     |
+|               | **40.0**      |                 |                                                                                                               |
