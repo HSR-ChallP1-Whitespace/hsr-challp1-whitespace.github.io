@@ -17,5 +17,7 @@ permalink: /report/
 | 05.10.2015    | 2.0           | Stefan Kapferer | Make some research which tools we can use for the data visualization (--> google charts)                      |
 | 05.10.2015    | 4.0           | Stefan Kapferer | Implement data visualization for 'gyro z' sensor data                                                         |
 | 05.10.2015    | 1.5           | Stefan Kapferer | Optimize data visualization / refresh data automatically (poll)                                               |
-| 05.10.2015    | 0.5           | Stefan Kapferer | Write LAB-Log 05.10.2015                                                                                      |
-|               | **34.5**      |                 |                                                                                                               |
+| 05.10.2015    | 0.5           | Stefan Kapferer | Write LAB-Log 05.10.2015                                                                                      |             
+| 05.10.2015    | 3.0           | Roberto Cuervo  | General research about 'Track recoginition'                                                                   |                                                                         |
+| 06.10.2015    | 1.0           | Roberto Cuervo  | Complete LAB-Log 05.10.2015                                                                                   |
+|               | **38.5**      |                 |                                                                                                               |
