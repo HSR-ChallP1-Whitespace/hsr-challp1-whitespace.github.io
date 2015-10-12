@@ -6,7 +6,7 @@ categories:
 author: "Roberto Cuervo & Stefan Kapferer"
 ---
 ## Sunday, 10. October 2015
-
+TODO COMPLETE
 ### Introduction
 After our positive experience with the data visualization, we wanted to extend it with the standard deviation of the gyro z values. So maybe we can better recognize if is a right or left curve, or a straight. Stefan added than a new function:
 
