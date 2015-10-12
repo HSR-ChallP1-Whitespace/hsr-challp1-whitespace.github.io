@@ -24,10 +24,11 @@ smoothedValues.currentStDev()
 
 {% endhighlight %}
 And there we are with the three curves: blue are the row values, red are the moving average values and new, orange are the standard deviation values:
+
 ![Data Analyzer - standard deviation data](/media/data-analyzer_screenshot-04.png "Data Analyzer - standard deviation")
 
 ### First curve recognizer
-The next step we took, was start trying to recognize curves ans straights. This first attempt used only the row data. We fixed a positive and negative threshold, and when the gyro z values are higher or lower, we have a right or a left curve, or a straight. 
+The next step we took, was start trying to recognize curves and straights. This first attempt used only the row data. We fixed a positive and negative threshold, and when the gyro z values are higher or lower, we have a right or a left curve, or a straight. 
 This "silly" recognizer worked pretty good, but of course we could not trust it very much. The row values have peaks, and these invalid all the recognition. 
 
 ### Second curve recognizer
@@ -41,7 +42,7 @@ public enum Direction {
 }
 {% endhighlight %}
 
-This "enhanced" curved recognizer uses moving averages. So we avoid peak values and use the nice red function in our graphs. 
+This "enhanced" curve recognizer uses moving averages. So we avoid peak values and use the nice red function in our graphs. 
 The mechanism is again very simple: we read the values, and when they reach certain thresholds, we create a new instance of the TrackPart class in which we save the direction, start and end times. When the values reach another threshold, we create again the corresponding instance.
 
 {% highlight java %}
