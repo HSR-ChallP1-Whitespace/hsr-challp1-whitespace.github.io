@@ -8,21 +8,7 @@ author: "Roberto Cuervo & Stefan Kapferer"
 ## Sunday, 11. October 2015
 
 ### Introduction
-After our positive experience with the data visualization, we wanted to extend it with the standard deviation of the gyro z values. So maybe we can better recognize if is a right or left curve, or a straight. Stefan added than a new function:
-
-{% highlight java %}
-FloatingHistory smoothedValues = new FloatingHistory(8);
-
-// Sensor event:
-double gyrZ = event.getG()[2];
-smoothedValues.shift(gyrZ);
-
-// get mean:
-smoothedValues.currentMean()
-//new function for standard deviation
-smoothedValues.currentStDev()
-
-{% endhighlight %}
+After our positive experience with the data visualization, we wanted to extend it with the standard deviation of the gyro z values. So maybe we can better recognize if is a right or left curve, or a straight. 
 And there we are with the three curves: blue are the row values, red are the moving average values and new, orange are the standard deviation values:
 
 ![Data Analyzer - standard deviation data](/media/data-analyzer_screenshot-04.png "Data Analyzer - standard deviation")
