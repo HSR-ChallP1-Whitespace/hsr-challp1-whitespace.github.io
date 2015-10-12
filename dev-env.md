@@ -33,6 +33,9 @@ permalink: /dev-env/
 {% highlight bash %}
 git clone git@github.com:HSR-ChallP1-Whitespace/autopilot.git
 mvn clean install
+# Maybe its necessary to:
+cd autopilot/src/main/resources
+bower install
 {% endhighlight %}
 
 ## Run autopilot
