@@ -5,7 +5,7 @@ date: 2015-10-06
 categories:
 author: "Stefan Kapferer"
 ---
-## Monday, 05. October 2015
+## Tuesday, 06. October 2015
 
 ### Introduction
 Based on our research last week and today (see Roberto's [entry](http://hsr-challp1-whitespace.github.io/2015/10/05/research-cont.html) from today) we decided 
