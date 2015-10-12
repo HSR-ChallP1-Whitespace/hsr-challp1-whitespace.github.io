@@ -34,7 +34,7 @@ permalink: /dev-env/
 git clone git@github.com:HSR-ChallP1-Whitespace/autopilot.git
 mvn clean install
 # Maybe its necessary to:
-cd autopilot/src/main/resources
+cd autopilot/src/main/resources/public
 bower install
 {% endhighlight %}
 
