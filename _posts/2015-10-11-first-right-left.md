@@ -8,21 +8,27 @@ author: "Roberto Cuervo & Stefan Kapferer"
 ## Sunday, 11. October 2015
 
 ### Introduction
-After our positive experience with the data visualization, we wanted to extend it with the standard deviation of the gyro z values. So maybe we can better recognize if is a right or left curve, or a straight. 
+After our positive experience with the data visualization, we wanted to extend it with the standard deviation of the gyro z values. It will be usefull for better detection of direction changes. 
 And there we are with the three curves: blue are the row values, red are the moving average values and new, orange are the standard deviation values:
 
 ![Data Analyzer - standard deviation data](/media/data-analyzer_screenshot-04.png "Data Analyzer - standard deviation")
 
-### First curve recognizer
-The next step we took, was start trying to recognize curves and straights. This first attempt used only the row data. We fixed a positive and negative threshold, and when the gyro z values are higher or lower, we have a right or a left curve, or a straight. 
-This "silly" recognizer worked pretty good, but of course we could not trust it very much. The row values have peaks, and these invalid all the recognition. 
+### First track recognizer
+The next step we took, was start trying to recognize curves and straights. This first attempt used only the raw data. We fixed a positive and negative threshold, and when the gyro z values are higher or lower, we have a right or a left curve, or a straight. 
+This "silly" recognizer worked pretty good, but of course we could not trust it very much. The raw values have peaks, and these invalid all the recognition. 
 
-### Second curve recognizer
-After exploring the track, we want to know where we are and how fast we can drive. Our approach is, first, split the track in curves or straights. We created a TrackPart class, and a enum:
+### Second track recognizer
+After exploring the track, we want to split the track into simple parts. For storing the data we implemented a simple model with  a TrackPart class, and an enum for the direction of the track-part:
 
 {% highlight java %}
+public class TrackPart {
+	
+	private Direction direction;
+	...
+}
 
 public enum Direction {
+
 	RIGHT, LEFT, STRAIGHT
 
 }
@@ -31,12 +37,7 @@ public enum Direction {
 This "enhanced" curve recognizer uses moving averages. So we avoid peak values and use the nice red function in our graphs. 
 The mechanism is again very simple: we read the values, and when they reach certain thresholds, we create a new instance of the TrackPart class in which we save the direction, start and end times. When the values reach another threshold, we create again the corresponding instance.
 
-{% highlight java %}
-public class TrackPart {
-	...
-}
-{% endhighlight %}
-
+We also use the standard deviation to avoid that we detect a STRAIGHT-Part between every curve.
 
 We save all these instances in a Track container class, because what we want is...
 
@@ -62,6 +63,9 @@ TrackPart[direction=RIGHT, start=27195, end=27726]
 TrackPart[direction=LEFT, start=27726, end=28245]
 {% endhighlight %}
 
-We compare continuously this pattern with the new ones incoming with each event, if we match, maybe we found the track model. If we found the model, maybe is time to start speeding up!!   
-Still we have to check our logic, and oc course, test all.
+After each recognized TrackPart we split the list into two same size lists. We compare them and check if it's the same pattern. Thats how we get candidates for our track pattern. After the second round we will get a match which is our track pattern. To detect the best match we use the round-time-event. If summarize all the times of our trackparts the difference to the round-time should be as small as possible.
+
+After we recognized the track we have to implement a logic which detects our position in the track at any time.
+Still we have to check our logic, and of course, test all.
+
 **Thats all, folks...**
