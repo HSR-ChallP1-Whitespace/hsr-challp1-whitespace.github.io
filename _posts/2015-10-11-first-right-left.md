@@ -41,7 +41,7 @@ We also use the standard deviation to avoid that we detect a STRAIGHT-Part betwe
 
 We save all these instances in a Track container class, because what we want is...
 
-### Perodicity
+### Periodicity
 Yes, we want to know when a new lap starts. In order to achieve that, starting from all the saved TrackPart instances we create a pattern like: RIGHT - LEFT - RIGHT -RIGHT - LEFT - STRAIGHT - LEFT. See an example:
 {% highlight bash %}
 TrackPart[direction=STRAIGHT, start=0, end=3677]
