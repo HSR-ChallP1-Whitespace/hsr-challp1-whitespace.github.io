@@ -21,4 +21,6 @@ permalink: /report/
 | 05.10.2015    | 3.0           | Roberto Cuervo  | General research about 'Track recognition'                                                                    |                                                                         |
 | 06.10.2015    | 1.0           | Roberto Cuervo  | Complete LAB-Log 05.10.2015                                                                                   |
 | 06.10.2015    | 1.5           | Roberto Cuervo  | Research about Events in general, trying to find a utility for acc values                                     |
-|               | **40.0**      |                 |                                                                                                               |
+| 11.10.2015    | 8.0           | Stefan Kapferer | Worked on Track-Recognition Implementation (Trackparts - LEFT - RIGHT - STRAIGHT)                             |
+| 12.10.2015    | 3.0           | Stefan Kapferer | Worked on Track-Recognition Implementation (Match patterns of recorded trackparts)                            |
+|               | **51.0**      |                 |                                                                                                               |
