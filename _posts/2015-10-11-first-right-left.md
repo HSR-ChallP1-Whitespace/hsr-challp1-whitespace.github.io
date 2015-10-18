@@ -11,12 +11,12 @@ author: "Roberto Cuervo & Stefan Kapferer"
 Last week we found out about the track. We were able to recognize the track, and find a pattern which describes it. Next step was detecting the best match from within all the possible matches, and later we have to find our current position in the track.
 
 ### Track Recognizer enhanced
-Until now, we could recognize the track based on the "RIGHT, LEFT, STRAIGHT" idea. That works really good, but we need to know exactly (or as exact as possible) which of aour patterns is the best. So we extended the Track Recognizer in order to compare the given round time with the added time of all our track parts. If this difference is smaller than a threshold, we have a best match. 
+Until now, we could recognize the track based on the "RIGHT, LEFT, STRAIGHT" idea. That works really good, but we need to know exactly (or as exact as possible) which of our patterns is the best. So we extended the Track Recognizer in order to compare the given round time with the added time of all our track parts. If this difference is smaller than a threshold, we have a best match. 
 After some tests...
 
 ![Track Recognizer - Match best pattern](/media/bestLapMatch.png "Track Recognizer - Match best pattern")
 
-One step forward, the next challenge is waiting for us
+One step forward, the next challenge is waiting for us.
 
 ### Position Detection
 In fact we have a lot of things already: track, track parts, round time... but still we don't know where we are. And if you don't know where you are, good driving seems very unlikely. We need to know where we are, we need to know our current position in the track. 
@@ -24,5 +24,5 @@ After several ideas, discussions and a lot of m&m's, we developed a new actor, t
 
 ![Position detection - Where are I?](/media/positionFound.png "Position detection - Where are I?")
 
-
+What you see is the current position of the car in our track model. The yellow mark indicates in which part of the track is the car in real time. You see that the mark moves along the pattern, and it begins again. This means, that the car completed a lap and starts a new one.
 **Thats all, folks...**
