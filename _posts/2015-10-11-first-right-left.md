@@ -3,7 +3,7 @@ layout: post
 title: "Right-Left-Straight..."
 date: 2015-10-11
 categories:
-author: "Roberto Cuervo & Stefan Kapferer"
+author: "Roberto Cuervo, Stefan Kapferer"
 ---
 ## Sunday, 11. October 2015
 
