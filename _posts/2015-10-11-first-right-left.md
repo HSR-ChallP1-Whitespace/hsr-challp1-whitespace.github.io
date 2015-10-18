@@ -63,7 +63,7 @@ TrackPart[direction=RIGHT, start=27195, end=27726]
 TrackPart[direction=LEFT, start=27726, end=28245]
 {% endhighlight %}
 
-After each recognized TrackPart we split the list into two same size lists. We compare them and check if it's the same pattern. Thats how we get candidates for our track pattern. After the second round we will get a match which is our track pattern. To detect the best match we use the round-time-event. If we summarize all the times of our trackparts, the difference to the round-time should be as small as possible.
+After each recognized TrackPart we split the list into two same size lists. We compare them and check if it's the same pattern. Thats how we get candidates for our track pattern. After the second round we will get a match which is our track pattern. To detect the best match we use the round-time-event. If we add up all the times of our trackparts, the difference to the round-time should be as small as possible.
 
 After we recognized the track we have to implement a logic which detects our position in the track at any time.
 Still we have to check our logic, and of course, test all.
