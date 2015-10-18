@@ -17,8 +17,8 @@ permalink: /report/
 | 05.10.2015    | 2.0           | Stefan Kapferer | Make some research which tools we can use for the data visualization (--> google charts)                      |
 | 05.10.2015    | 4.0           | Stefan Kapferer | Implement data visualization for 'gyro z' sensor data                                                         |
 | 05.10.2015    | 1.5           | Stefan Kapferer | Optimize data visualization / refresh data automatically (poll)                                               |
-| 05.10.2015    | 0.5           | Stefan Kapferer | Write LAB-Log 05.10.2015                                                                                      |             
-| 05.10.2015    | 3.0           | Roberto Cuervo  | General research about 'Track recognition'                                                                    |                                 
+| 05.10.2015    | 0.5           | Stefan Kapferer | Write LAB-Log 05.10.2015                                                                                      |
+| 05.10.2015    | 3.0           | Roberto Cuervo  | General research about 'Track recognition'                                                                    |
 | 06.10.2015    | 1.0           | Roberto Cuervo  | Complete LAB-Log 05.10.2015                                                                                   |
 | 06.10.2015    | 1.5           | Roberto Cuervo  | Research about Events in general, trying to find a utility for acc values                                     |
 | 11.10.2015    | 8.0           | Stefan Kapferer | Worked on Track-Recognition Implementation (Trackparts - LEFT - RIGHT - STRAIGHT)                             |
@@ -26,4 +26,5 @@ permalink: /report/
 | 11.10.2015    | 8.0           | Roberto Cuervo  | Collaborated in Track-Recognition Implementation (Trackparts - LEFT - RIGHT - STRAIGHT                        |
 | 12.10.2015    | 1.0           | Roberto Cuervo  | Complete LAB-Log 11.10.2015                                                                                   |
 | 18.10.2015    | 6.0           | Roberto Cuervo  | Collaborated in Position detection                                                                            |
-|               | **66.0**      |                 |                                                                                                               |
+| 18.10.2015    | 1.0           | Roberto Cuervo  | LAB-Log 18.10.2015                                                                               |
+|               | **67.0**      |                 |                                                                                                               |
