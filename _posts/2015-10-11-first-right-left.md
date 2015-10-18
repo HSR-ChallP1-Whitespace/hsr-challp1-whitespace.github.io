@@ -8,7 +8,7 @@ author: "Roberto Cuervo & Stefan Kapferer"
 ## Sunday, 18. October 2015
 
 ### Introduction
-Last week we found out about the track. We were able to recognize the track, and find a pattern which describes it. Next step was detecting the best match from within all the possible matches, and later we habe to find our current position in the track.
+Last week we found out about the track. We were able to recognize the track, and find a pattern which describes it. Next step was detecting the best match from within all the possible matches, and later we have to find our current position in the track.
 
 ### Track Recognizer enhanced
 Until now, we could recognize the track based on the "RIGHT, LEFT, STRAIGHT" idea. That works really good, but we need to know exactly (or as exact as possible) which of aour patterns is the best. So we extended the Track Recognizer in order to compare the given round time with the added time of all our track parts. If this difference is smaller than a threshold, we have a best match. 
