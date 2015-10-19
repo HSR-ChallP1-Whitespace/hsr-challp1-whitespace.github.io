@@ -23,7 +23,7 @@ permalink: /report/
 | 06.10.2015  | 1.5        | 40       | Roberto Cuervo  | Research about Events in general, trying to find a utility for acc values                                     |
 | 11.10.2015  | 8.0        | 48       | Stefan Kapferer | Worked on Track-Recognition Implementation (Trackparts - LEFT - RIGHT - STRAIGHT)                             |
 | 12.10.2015  | 3.0        | 51       | Stefan Kapferer | Worked on Track-Recognition Implementation (Match patterns of recorded trackparts)                            |
-| 11.10.2015  | 8.0        | 59       | Roberto Cuervo  | Collaborated in Track-Recognition Implementation (Trackparts - LEFT - RIGHT - STRAIGHT                        |
+| 11.10.2015  | 8.0        | 59       | Roberto Cuervo  | Collaborated in Track-RecognitionImplementation (Trackparts - LEFT - RIGHT - STRAIGHT                         |
 | 12.10.2015  | 1.0        | 60       | Roberto Cuervo  | Complete LAB-Log 11.10.2015                                                                                   |
 | 18.10.2015  | 6.0        | 66       | Roberto Cuervo  | Collaborated in Position detection                                                                            |
 | 18.10.2015  | 1.0        | 67       | Roberto Cuervo  | LAB-Log 18.10.2015                                                                                            |
