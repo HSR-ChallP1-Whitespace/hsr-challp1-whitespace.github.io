@@ -29,4 +29,4 @@ permalink: /report/
 | 18.10.2015  | 1.0       | 67   | Roberto Cuervo  | LAB-Log 18.10.2015                                                                                                        |
 | 19.10.2015  | 4.5       | 71.5 | Roberto Cuervo  | TODO                                                                                                                      |
 | 19.10.2015  | 1.0       | 72.5 | Roberto Cuervo  | LAB-Log 19.10.2015                                                                                                        |
-|   **Total** | **167.0** |      |                 |                                                                                                                           |
+| **Total**   | **72.5**  |      |                 |                                                                                                                           |
