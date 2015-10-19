@@ -23,13 +23,15 @@ permalink: /report/
 | 06.10.2015  | 1.0       | 38.5     | Roberto Cuervo  | Complete LAB-Log 05.10.2015                                                                                               |
 | 06.10.2015  | 1.5       | 40       | Roberto Cuervo  | Research about Events in general, trying to find a utility for acc values                                                 |
 | 11.10.2015  | 8.0       | 48       | Stefan Kapferer | Worked on Track-Recognition Implementation (Trackparts - LEFT - RIGHT - STRAIGHT)                                         |
-| 11.10.2015  | 8.0       | 59       | Roberto Cuervo  | Collaborated in Track-RecognitionImplementation (Trackparts - LEFT - RIGHT - STRAIGHT                                     |
-| 12.10.2015  | 3.0       | 51       | Stefan Kapferer | Worked on Track-Recognition Implementation (Match patterns of recorded trackparts)                                        |
+| 11.10.2015  | 8.0       | 56       | Roberto Cuervo  | Collaborated in Track-RecognitionImplementation (Trackparts - LEFT - RIGHT - STRAIGHT                                     |
+| 12.10.2015  | 3.0       | 59       | Stefan Kapferer | Worked on Track-Recognition Implementation (Match patterns of recorded trackparts)                                        |
 | 12.10.2015  | 1.0       | 60       | Roberto Cuervo  | Complete LAB-Log 11.10.2015                                                                                               |
 | 18.10.2015  | 6.0       | 66       | Roberto Cuervo  | Collaborated in Position detection                                                                                        |
 | 18.10.2015  | 1.0       | 67       | Roberto Cuervo  | LAB-Log 18.10.2015                                                                                                        |
-| 19.10.2015  | 4.5       | 71.5     | Roberto Cuervo  | TODO                                                                                                                      |
-| 19.10.2015  | 1.0       | 72.5     | Roberto Cuervo  | LAB-Log 19.10.2015                                                                                                        |
-| **Total**   | **72.5**  |          |                 |                                                                                                                           |
+| 18.10.2015  | 6.0       | 73       | Stefan Kapferer | Implemented first algorithm for position detection in the recognized track                                                |
+| 19.10.2015  | 4.5       | 77.5     | Roberto Cuervo  | TODO                                                                                                                      |
+| 19.10.2015  | 1.0       | 78.5     | Roberto Cuervo  | LAB-Log 19.10.2015                                                                                                        |
+| 19.10.2015  | 4.5       | 83       | Stefan Kapferer | First tests with driving (speeding up in straight track parts)                                                            |
+| **Total**   | **83**    |          |                 |                                                                                                                           |
 
 </div>
