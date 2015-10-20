@@ -8,7 +8,7 @@ author: "Roberto Cuervo, Stefan Kapferer"
 ## Monday, 19. October 2015
 
 ### Introduction
-Yesterday we were sure that our PositionCalculator would get lost as soon as we increased the velocity, and we would habe to find another way to recover the position.
+Yesterday we were sure that our PositionCalculator would get lost as soon as we increased the velocity, and we would have to find another way to recover the position.
 Well... it doesn't.
 
 ### "We drive, therefore we are"
@@ -32,9 +32,5 @@ And so on. Watch the video, we know it's still not clear enough in order to unde
 Next steps will be the optimization of this algorithm, with acceleration in the curves, and how react to the penalties we will sure receive.
 
 ![First driving video](/media/positionDetection.gif "First driving video")
-
-TODO COMPLETE
-
-
 
 **Thats all, folks...**
