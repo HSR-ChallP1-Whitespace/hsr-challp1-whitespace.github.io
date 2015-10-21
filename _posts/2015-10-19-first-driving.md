@@ -29,8 +29,16 @@ First, we drive recognition laps with a constant default power value in order to
 When we have matched the track parts pattern, we try to match when the pattern starts repeating itself. We do this with the round time. As soon as we have this, the PositionCalculator "calculates" the current car position (until this moment we didn't know where were we) and it communicates it to the WhitespacePilot. This starts driving, speeding up in the straigths during a fraction of the track part time, and always reducing the power to the next curve track power value, saved in the track part.
 
 And so on. Watch the video, we know it's still not clear enough in order to understand the whole logic, but it works!
-Next steps will be the optimization of this algorithm, with acceleration in the curves, and how react to the penalties we will sure receive.
 
 ![First driving video](/media/positionDetection.gif "First driving video")
+
+In the video you can see that we added a new graph. This is the round time comparison graph. If we are driving, our goal is to drive as fast as possible. In order to know if this is so, we need to compare the lap time variation. You see (or maybe not, gif quality is not so good), that we reduce our round time up to 4 seconds until we receive the first penalty. Not bad for the first time, isn't it?. Here you have a screenshot:
+
+![Round Time Graph](/media/roundtimeGraph.png "Round Time Graph")
+
+Next steps will be the optimization of this algorithm, with acceleration in the curves, and how react to the penalties we will sure receive.
+
+
+
 
 **Thats all, folks...**
