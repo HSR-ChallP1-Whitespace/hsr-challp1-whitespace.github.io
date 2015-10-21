@@ -32,7 +32,7 @@ And so on. Watch the video, we know it's still not clear enough in order to unde
 
 ![First driving video](/media/positionDetection.gif "First driving video")
 
-In the video you can see that we added a new graph. This is the round time comparison graph. If we are driving, our goal is to drive as fast as possible. In order to know if this is so, we need to compare the lap time variation. You see (or maybe not, gif quality is not so good), that we reduce our round time up to 4 seconds until we receive the first penalty. Not bad for the first time, isn't it?. Here you have a screenshot:
+In the video you can not see that we added a new graph. This is the round time comparison graph. If we are driving, our goal is to drive as fast as possible. In order to know if this is so, we need to compare the lap time variation. In the graph you can see , that we reduce our round time up to 4 seconds until we receive the first penalty. Not bad for the first time, isn't it?. Here you have a screenshot:
 
 ![Round Time Graph](/media/roundtimeGraph.png "Round Time Graph")
 
