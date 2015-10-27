@@ -8,12 +8,12 @@ permalink: /report/
 
 | Date        | Hours     | Subtotal | Project Member  | Description                                                                                                               |
 | ------------| --------- | -------- | --------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 21.09.2015  | 4         | 4        | Stefan Kapferer | Project Kickoff                                                                                                           |
-| 21.09.2015  | 4         | 8        | Roberto Cuervo  | Project Kickoff                                                                                                           |
-| 28.09.2015  | 5         | 13       | Stefan Kapferer | Project setup work (jenkins, nexus repositories, maven build, etc...)                                                     |
-| 28.09.2015  | 5         | 18       | Roberto Cuervo  | Project setup work (jenkins, nexus repositories, maven build, etc...)                                                     |
-| 28.09.2015  | 3         | 21       | Stefan Kapferer | Setup Lab-LOG Page [http://hsr-challp1-whitespace.github.io/](http://hsr-challp1-whitespace.github.io/)                   |
-| 30.09.2015  | 3         | 24       | Stefan Kapferer | 'Track recognition' research... (how can we find the period of our sensor data function??)                                |
+| 21.09.2015  | 4.0       | 4.0      | Stefan Kapferer | Project Kickoff                                                                                                           |
+| 21.09.2015  | 4.0       | 8.0      | Roberto Cuervo  | Project Kickoff                                                                                                           |
+| 28.09.2015  | 5.0       | 13       | Stefan Kapferer | Project setup work (jenkins, nexus repositories, maven build, etc...)                                                     |
+| 28.09.2015  | 5.0       | 18       | Roberto Cuervo  | Project setup work (jenkins, nexus repositories, maven build, etc...)                                                     |
+| 28.09.2015  | 3.0       | 21       | Stefan Kapferer | Setup Lab-LOG Page [http://hsr-challp1-whitespace.github.io/](http://hsr-challp1-whitespace.github.io/)                   |
+| 30.09.2015  | 3.0       | 24       | Stefan Kapferer | 'Track recognition' research... (how can we find the period of our sensor data function??)                                |
 | 01.10.2015  | 2.5       | 26.5     | Stefan Kapferer | Continued research from wednesday. Wrote mail to Wolfgang...                                                              |
 | 05.10.2015  | 2.0       | 28.5     | Stefan Kapferer | Make some research which tools we can use for the data visualization (--> google charts)                                  |
 | 05.10.2015  | 4.0       | 32.5     | Stefan Kapferer | Implement data visualization for 'gyro z' sensor data                                                                     |
@@ -29,9 +29,12 @@ permalink: /report/
 | 18.10.2015  | 6.0       | 66       | Roberto Cuervo  | Collaborated in Position detection                                                                                        |
 | 18.10.2015  | 1.0       | 67       | Roberto Cuervo  | LAB-Log 18.10.2015                                                                                                        |
 | 18.10.2015  | 6.0       | 73       | Stefan Kapferer | Implemented first algorithm for position detection in the recognized track                                                |
-| 19.10.2015  | 4.5       | 77.5     | Roberto Cuervo  | TODO                                                                                                                      |
+| 19.10.2015  | 4.5       | 77.5     | Roberto Cuervo  | First driving                                                                                                             |
 | 19.10.2015  | 1.0       | 78.5     | Roberto Cuervo  | LAB-Log 19.10.2015                                                                                                        |
 | 19.10.2015  | 4.5       | 83       | Stefan Kapferer | First tests with driving (speeding up in straight track parts)                                                            |
-| **Total**   | **83**    |          |                 |                                                                                                                           |
+| 25.10.2015  | 3.75      | 86.75    | Roberto Cuervo  | Lost & Found                                                                                                              |
+| 26.10.2015  | 5.5       | 92.25    | Roberto Cuervo  | Lost & Found                                                                                                              |
+| 27.10.2015  | 1.0       | 93.25    | Roberto Cuervo  | LAB-Log 25.10.2015                                                                                                        |
+| **Total**   | **92.25** |          |                 |                                                                                                                           |
 
 </div>

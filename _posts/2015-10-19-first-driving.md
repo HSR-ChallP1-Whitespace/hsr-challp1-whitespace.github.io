@@ -18,7 +18,7 @@ We deliberated long time in order to find a simple approach to this next challen
 We know the track, we have a pattern, we have the position and we have the start and end times from each track part or subtrack.
 Ok, we will start speeding up as soon as we know that we are in a straight. The PositionCalculator sends a message to our pilot, WhitespacePilot, at each direction change. In this message it sends the current track part and the following track part. 
 With this information, the WhitespacePilot speeds up in the straigths.
-The obvious question is: when do we stop speeding up? Or: when so we have to brake?
+The obvious question is: when do we stop speeding up? Or: when do we have to brake?
 The first solution is using the track part times we collected in the recognition lap. We speed up in the straight during a part of the collected time. After that, we reduce the power to its previous value.
 
 But ,which is this previous power value? We discovered, that if we want to entry in the curves without risks, the best idea is saving the power of each track part during the recognition lap.
@@ -32,7 +32,7 @@ And so on. Watch the video, we know it's still not clear enough in order to unde
 
 ![First driving video](/media/positionDetection.gif "First driving video")
 
-In the video you can not see that we added a new graph. This is the round time comparison graph. If we are driving, our goal is to drive as fast as possible. In order to know if this is so, we need to compare the lap time variation. In the graph you can see , that we reduce our round time up to 4 seconds until we receive the first penalty. Not bad for the first time, isn't it?. Here you have a screenshot:
+In the video you can not see that we added a new graph. This is the round time comparison graph. If we are driving, our goal is to drive as fast as possible. In order to know if this is so, we need to compare the lap time variation. In the graph you can see , that we reduce our round time up to 3 seconds until we receive the first penalty. Not bad for the first time, isn't it?. Here you have a screenshot:
 
 ![Round Time Graph](/media/roundtimeGraph.png "Round Time Graph")
 
