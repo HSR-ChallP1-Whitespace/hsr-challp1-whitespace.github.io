@@ -38,6 +38,8 @@ permalink: /report/
 | 26.10.2015  | 5.5        | 101.75   | Stefan Kapferer | Discussions about driving strategies and first implementations                                                            |
 | 27.10.2015  | 1.0        | 102.75   | Roberto Cuervo  | LAB-Log 25.10.2015                                                                                                        |
 | 29.10.2015  | 2.0        | 104.75   | Stefan Kapferer | Little changes in last LAB-Log / Changed Recognition-Model and store light barriers while recognizing track               |
-| **Total**   | **102.75** |          |                 |                                                                                                                           |
+| 01.11.2015  | 4.0        | 108.75   | Stefan Kapferer | Implementing first driving strategy                                                                                       |
+| 02.11.2015  | 4.0        | 112.75   | Stefan Kapferer | Finished first driving strategy / testing                                                                                 |
+| **Total**   | **112.75** |          |                 |                                                                                                                           |
 
 </div>
