@@ -40,6 +40,7 @@ permalink: /report/
 | 29.10.2015  | 2.0        | 104.75   | Stefan Kapferer | Little changes in last LAB-Log / Changed Recognition-Model and store light barriers while recognizing track               |
 | 01.11.2015  | 4.0        | 108.75   | Stefan Kapferer | Implementing first driving strategy                                                                                       |
 | 02.11.2015  | 4.0        | 112.75   | Stefan Kapferer | Finished first driving strategy / testing                                                                                 |
-| **Total**   | **112.75** |          |                 |                                                                                                                           |
+| 05.11.2015  | 1.5        | 114.25   | Stefan Kapferer | Implemented actor to serialize race data into JSON file                                                                   |
+| **Total**   | **114.25** |          |                 |                                                                                                                           |
 
 </div>
