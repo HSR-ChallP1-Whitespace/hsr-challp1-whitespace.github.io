@@ -39,8 +39,14 @@ permalink: /report/
 | 27.10.2015  | 1.0        | 102.75   | Roberto Cuervo  | LAB-Log 25.10.2015                                                                                                        |
 | 29.10.2015  | 2.0        | 104.75   | Stefan Kapferer | Little changes in last LAB-Log / Changed Recognition-Model and store light barriers while recognizing track               |
 | 01.11.2015  | 4.0        | 108.75   | Stefan Kapferer | Implementing first driving strategy                                                                                       |
-| 02.11.2015  | 4.0        | 112.75   | Stefan Kapferer | Finished first driving strategy / testing                                                                                 |
-| 05.11.2015  | 1.5        | 114.25   | Stefan Kapferer | Implemented actor to serialize race data into JSON file                                                                   |
-| **Total**   | **114.25** |          |                 |                                                                                                                           |
+| 01.11.2015  | 4.0        | 112.75   | Roberto Cuervo  | Implementing first driving strategy                                                                                       |
+| 02.11.2015  | 4.0        | 116.75   | Stefan Kapferer | Finished first driving strategy / testing                                                                                 |
+| 02.11.2015  | 4.0        | 120.75   | Roberto Cuervo  | Finished first driving strategy / testing                                                                                 |
+| 05.11.2015  | 1.5        | 122.25   | Stefan Kapferer | Implemented actor to serialize race data into JSON file                                                                   |
+| 05.11.2015  | 2.0        | 124.25   | Stefan Kapferer	| Presentation preparation for 06.11.                                                                                       |
+| 05.11.2015  | 2.0        | 126.25   | Roberto Cuervo	| Presentation preparation for 06.11.                                                                                       |
+| 06.11.2015  | 8.0        | 134.25   | Stefan Kapferer | Training day (trainings on real track) / presentation                                                                     |
+| 06.11.2015  | 7.0        | 141.25   | Roberto Cuervo  | Training day (trainings on real track) / presentation                                                                     |
+| **Total**   | **141.25** |          |                 |                                                                                                                           |
 
 </div>
