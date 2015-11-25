@@ -53,6 +53,10 @@ permalink: /report/
 | 15.11.2015  | 6.0        | 158.25   | Stefan Kapferer | Implemented first improvements after our 'real world' experiences / discussed solutions to improve track recognition failure tolerance |
 | 15.11.2015  | 6.0        | 164.25   | Roberto Cuervo  | Implemented first improvements after our 'real world' experiences / discussed solutions to improve track recognition failure tolerance |
 | 16.11.2015  | 2.0        | 166.25   | Stefan Kapferer | Implemented experimental solution for a more failure tolerant track recognition                                                        |
-| **Total**   | **166.25** |          |                 |                                                                                                                                        |
+| 22.11.2015  | 4.0        | 170.25   | Roberto Cuervo  | Discussed new strategies / Fixed some bugs in new track recognition logic                                                              |
+| 22.11.2015  | 7.0        | 177.25   | Stefan Kapferer | Discussed new strategies / Fixed some bugs in new track recognition logic / Solved problems with dead letters                          |
+| 23.11.2015  | 3.0        | 180.25   | Roberto Cuervo  | Planning how to implement new speedup/brake algorithm                                                                                  |
+| 23.11.2015  | 3.0        | 183.25   | Stefan Kapferer | Planning how to implement new speedup/brake algorithm                                                                                  |
+| **Total**   | **183.25** |          |                 |                                                                                                                                        |
 
 </div>
