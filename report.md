@@ -57,6 +57,8 @@ permalink: /report/
 | 22.11.2015  | 7.0        | 177.25   | Stefan Kapferer | Discussed new strategies / Fixed some bugs in new track recognition logic / Solved problems with dead letters                          |
 | 23.11.2015  | 3.0        | 180.25   | Roberto Cuervo  | Planning how to implement new speedup/brake algorithm                                                                                  |
 | 23.11.2015  | 3.0        | 183.25   | Stefan Kapferer | Planning how to implement new speedup/brake algorithm                                                                                  |
-| **Total**   | **183.25** |          |                 |                                                                                                                                        |
+| 26.11.2015  | 3.5        | 186.75   | Roberto Cuervo  | Implemented Logic for Driving-Actors for each TrackPart                                                                                |
+| 26.11.2015  | 5.0        | 191.75   | Stefan Kapferer | Implemented Logic for Driving-Actors for each TrackPart                                                                                |
+| **Total**   | **191.75** |          |                 |                                                                                                                                        |
 
 </div>
