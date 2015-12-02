@@ -59,6 +59,8 @@ permalink: /report/
 | 23.11.2015  | 3.0        | 183.25   | Stefan Kapferer | Planning how to implement new speedup/brake algorithm                                                                                  |
 | 26.11.2015  | 3.5        | 186.75   | Roberto Cuervo  | Implemented Logic for Driving-Actors for each TrackPart                                                                                |
 | 26.11.2015  | 5.0        | 191.75   | Stefan Kapferer | Implemented Logic for Driving-Actors for each TrackPart                                                                                |
-| **Total**   | **191.75** |          |                 |                                                                                                                                        |
+| 30.11.2015  | 4.5        | 196.25   | Roberto Cuervo  | Started with implementation of new speedup-logic                                                                                       |
+| 30.11.2015  | 5.5        | 201.75   | Stefan Kapferer | Started with implementation of new speedup-logic                                                                                       |
+| **Total**   | **201.75** |          |                 |                                                                                                                                        |
 
 </div>
