@@ -67,6 +67,7 @@ permalink: /report/
 | 04.12.2015  | 3.00       | 209.00   | Roberto Cuervo  | Worked on new Speedup-Logic                                                                                                            |
 | 06.12.2015  | 6.00       | 215.00   | Stefan Kapferer | Working on our Speedup-Problem (logic depends too much on penalties and as we saw they are not always perfect on the real track)       |
 | 07.12.2015  | 3.00       | 218.00   | Stefan Kapferer | Still try to solve our problems with the speedup logic                                                                                 |
-| **Total**   | **218.00** |          |                 |                                                                                                                                        |
+| 09.12.2015  | 0.50       | 218.50   | Stefan Kapferer | Updated client-api's (like Wolfgang wrote in he's mail...)                                                                             |
+| **Total**   | **218.50** |          |                 |                                                                                                                                        |
 
 </div>
