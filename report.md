@@ -63,6 +63,10 @@ permalink: /report/
 | 30.11.2015  | 5.50       | 201.75   | Stefan Kapferer | Started with implementation of new speedup-logic                                                                                       |
 | 02.12.2015  | 0.25       | 202.00   | Stefan Kapferer | Pushed new strategy to new feature branch                                                                                              |
 | 02.12.2015  | 1.00       | 203.00   | Stefan Kapferer | Wrote Lab-Log for the last few days until 26.11.                                                                                       |
-| **Total**   | **203.00** |          |                 |                                                                                                                                        |
+| 04.12.2015  | 3.00       | 206.00   | Stefan Kapferer | Worked on new Speedup-Logic                                                                                                            |
+| 04.12.2015  | 3.00       | 209.00   | Roberto Cuervo  | Worked on new Speedup-Logic                                                                                                            |
+| 06.12.2015  | 6.00       | 215.00   | Stefan Kapferer | Working on our Speedup-Problem (logic depends too much on penalties and as we saw they are not always perfect on the real track)       |
+| 07.12.2015  | 3.00       | 218.00   | Stefan Kapferer | Still try to solve our problems with the speedup logic                                                                                 |
+| **Total**   | **218.00** |          |                 |                                                                                                                                        |
 
 </div>
