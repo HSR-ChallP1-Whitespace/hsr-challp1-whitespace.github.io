@@ -70,6 +70,7 @@ permalink: /report/
 | 09.12.2015  | 0.50       | 218.50   | Stefan Kapferer | Updated client-api's (like Wolfgang wrote in he's mail...)                                                                             |
 | 10.12.2015  | 3.00       | 221.50   | Stefan Kapferer | Dubai... Improved our track recognition again.                                                                                         |
 | 10.12.2015  | 5.00       | 226.50   | Stefan Kapferer | Worked again on our straight speed improvements                                                                                        |
-| **Total**   | **226.50** |          |                 |                                                                                                                                        |
+| 10.12.2015  | 1.00       | 227.50   | Stefan Kapferer | Wrote Lab-Log's for the last days and today's *dubai*-problem                                                                          |
+| **Total**   | **227.50** |          |                 |                                                                                                                                        |
 
 </div>
