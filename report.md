@@ -71,6 +71,8 @@ permalink: /report/
 | 10.12.2015  | 3.00       | 221.50   | Stefan Kapferer | Dubai... Improved our track recognition again.                                                                                         |
 | 10.12.2015  | 5.00       | 226.50   | Stefan Kapferer | Worked again on our straight speed improvements                                                                                        |
 | 10.12.2015  | 1.00       | 227.50   | Stefan Kapferer | Wrote Lab-Log's for the last days and today's *dubai*-problem                                                                          |
-| **Total**   | **227.50** |          |                 |                                                                                                                                        |
+| 14.12.2015  | 5.00       | 232.50   | Roberto Cuervo  | Worked on Speedup-Optimization                                                                                                         |
+| 14.12.2015  | 5.00       | 237.50   | Stefan Kapferer | Worked on Speedup-Optimization                                                                                                         |
+| **Total**   | **237.50** |          |                 |                                                                                                                                        |
 
 </div>
