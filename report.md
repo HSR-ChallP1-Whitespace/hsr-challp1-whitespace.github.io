@@ -73,6 +73,7 @@ permalink: /report/
 | 10.12.2015  | 1.00       | 227.50   | Stefan Kapferer | Wrote Lab-Log's for the last days and today's *dubai*-problem                                                                          |
 | 14.12.2015  | 5.00       | 232.50   | Roberto Cuervo  | Worked on Speedup-Optimization                                                                                                         |
 | 14.12.2015  | 5.00       | 237.50   | Stefan Kapferer | Worked on Speedup-Optimization                                                                                                         |
-| **Total**   | **237.50** |          |                 |                                                                                                                                        |
+| 04.01.2016  | 1.50       | 239.00   | Stefan Kapferer | Small refactoring: Different driving actor's for straights and curves (base functionality in abstract base class)                      |
+| **Total**   | **239.00** |          |                 |                                                                                                                                        |
 
 </div>
