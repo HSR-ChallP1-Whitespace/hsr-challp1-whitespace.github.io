@@ -73,7 +73,9 @@ permalink: /report/
 | 10.12.2015  | 1.00       | 227.50   | Stefan Kapferer | Wrote Lab-Log's for the last days and today's *dubai*-problem                                                                          |
 | 14.12.2015  | 5.00       | 232.50   | Roberto Cuervo  | Worked on Speedup-Optimization                                                                                                         |
 | 14.12.2015  | 5.00       | 237.50   | Stefan Kapferer | Worked on Speedup-Optimization                                                                                                         |
-| 04.01.2016  | 1.50       | 239.00   | Stefan Kapferer | Small refactoring: Different driving actor's for straights and curves (base functionality in abstract base class)                      |
-| **Total**   | **239.00** |          |                 |                                                                                                                                        |
+| 04.01.2016  | 1.50       | 239.00   | Stefan Kapferer | Small refactoring: Different driving actors for straights and curves (base functionality in abstract base class)                       |
+| 06.01.2016  | 3.00       | 242.00   | Stefan Kapferer | Solved problem with too small initial power-value / Implemented easier switch of speedup order strategy (all/one-after-one)            |
+| 07.01.2016  | 2.00       | 244.00   | Stefan Kapferer | Implemented: Speedup earlier in straight parts (already in the curve)                                                                  |
+| **Total**   | **244.00** |          |                 |                                                                                                                                        |
 
 </div>
