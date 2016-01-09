@@ -76,6 +76,7 @@ permalink: /report/
 | 04.01.2016  | 1.50       | 239.00   | Stefan Kapferer | Small refactoring: Different driving actors for straights and curves (base functionality in abstract base class)                       |
 | 06.01.2016  | 3.00       | 242.00   | Stefan Kapferer | Solved problem with too small initial power-value / Implemented easier switch of speedup order strategy (all/one-after-one)            |
 | 07.01.2016  | 2.00       | 244.00   | Stefan Kapferer | Implemented: Speedup earlier in straight parts (already in the curve)                                                                  |
-| **Total**   | **244.00** |          |                 |                                                                                                                                        |
+| 08.01.2016  | 3.00       | 247.00   | Stefan Kapferer | Refactored speedup-logic -> back to easier solution                                                                                    |
+| **Total**   | **247.00** |          |                 |                                                                                                                                        |
 
 </div>
