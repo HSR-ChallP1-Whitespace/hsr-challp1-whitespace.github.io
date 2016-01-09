@@ -77,6 +77,7 @@ permalink: /report/
 | 06.01.2016  | 3.00       | 242.00   | Stefan Kapferer | Solved problem with too small initial power-value / Implemented easier switch of speedup order strategy (all/one-after-one)            |
 | 07.01.2016  | 2.00       | 244.00   | Stefan Kapferer | Implemented: Speedup earlier in straight parts (already in the curve)                                                                  |
 | 08.01.2016  | 3.00       | 247.00   | Stefan Kapferer | Refactored speedup-logic -> back to easier solution                                                                                    |
-| **Total**   | **247.00** |          |                 |                                                                                                                                        |
+| 09.01.2016  | 3.00       | 250.00   | Stefan Kapferer | Tried to improve again... (but I think there is no hope :D)                                                                            |
+| **Total**   | **250.00** |          |                 |                                                                                                                                        |
 
 </div>
