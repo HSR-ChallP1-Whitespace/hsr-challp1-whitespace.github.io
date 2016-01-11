@@ -79,6 +79,10 @@ permalink: /report/
 | 08.01.2016  | 3.00       | 247.00   | Stefan Kapferer | Refactored speedup-logic -> back to easier solution                                                                                    |
 | 09.01.2016  | 3.00       | 250.00   | Stefan Kapferer | Tried to improve again... (but I think there is no hope :D)                                                                            |
 | 10.01.2016  | 4.00       | 254.00   | Stefan Kapferer | Last attempts to improve something...                                                                                                  |
-| **Total**   | **254.00** |          |                 |                                                                                                                                        |
+| 11.01.2016  | 3.00       | 257.00   | Roberto Cuervo  | Presentation preparation                                                                                                               |
+| 11.01.2016  | 3.00       | 260.00   | Stefan Kapferer | Presentation preparation                                                                                                               |
+| 11.01.2016  | 5.50       | 265.50   | Roberto Curvo   | The FINAL                                                                                                                              |
+| 11.01.2016  | 5.50       | 271.00   | Stefan Kapferer | The FINAL                                                                                                                              |
+| **Total**   | **271.00** |          |                 |                                                                                                                                        |
 
 </div>
